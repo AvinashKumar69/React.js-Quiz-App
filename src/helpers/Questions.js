@@ -4,7 +4,7 @@ export const Questions = [
     optionA: "John",
     optionB: "Jake",
     optionC: "Josh",
-    optionD: "Pedro",
+    optionD: "Avinash",
     asnwer: "optionD",
   },
   {
